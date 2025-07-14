@@ -1,7 +1,7 @@
 /*
   readingTracker.js
   A simple script to track and analyze weekly reading data.
-  GitHub Repo URL: https://github.com/your-username/cs81-module4a-reviewtracker
+  GitHub Repo URL: https://github.com/SMC-Summer/cs81-module4a-reviewtracker
 */
 
 // Data structure: An array of objects. Each object represents a reading session.
