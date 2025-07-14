@@ -146,11 +146,9 @@ console.log("--------------------");
 
 
 // 4. ADD A TEST CASE:
-// Let's add a new reading session for a new book on Saturday using our new function.
 // This demonstrates how the suggested improvement (`addReadingEntry`) would be used.
 addReadingEntry(readingLog, "Project Hail Mary", "Andy Weir", 95, "Saturday");
 
-// Now, let's see the updated total pages and the new summary.
 const updatedTotalPages = getTotalPages(readingLog);
 const updatedBookSummary = summarizeByBook(readingLog);
 
